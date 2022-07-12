@@ -42,4 +42,4 @@ console.log(rect);
 
 let square = new Square(20,"square",0,0,100)
 
-console.log(square)
+console.log(square);
