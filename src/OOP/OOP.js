@@ -36,7 +36,7 @@ class Square extends Rectangle {
 }
 
 
-let rect = new Rectangle(40,20,"req");
+let rect = new Rectangle(40,20,"rectangle");
 
 console.log(rect);
 
