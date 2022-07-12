@@ -41,16 +41,6 @@ class Square extends Rectangle {
 }
 
 
-
-
-
-
-
-
-
-
-
-
 let rect = new Rectangle(40,20,"req");
 
 console.log(rect);
