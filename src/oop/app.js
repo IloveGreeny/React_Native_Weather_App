@@ -32,8 +32,6 @@ class Square extends Rectangle {
             console.log(square.y);
         },1000)
         console.log(interval);
-
-
         }
 
 }
@@ -42,7 +40,6 @@ class Square extends Rectangle {
 let rect = new Rectangle(40,20,"req");
 
 console.log(rect);
-
 
 let square = new Square(20,"shaiobdki",0,0,100)
 
