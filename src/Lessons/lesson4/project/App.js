@@ -1,4 +1,3 @@
-import './App.css';
 import Heading from './Components/ Header/Heading';
 
 export default function App() { 
