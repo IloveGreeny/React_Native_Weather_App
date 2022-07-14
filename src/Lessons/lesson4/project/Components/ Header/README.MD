@@ -1,1 +1,1 @@
-I added three wats that you can use the API;
+I added three ways that you can fetch and use the API;
