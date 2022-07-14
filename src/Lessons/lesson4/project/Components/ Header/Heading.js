@@ -1,4 +1,4 @@
-// fetch , then , finnaly 
+// fetch , then , finnaly , catch
 
 import { useState, useEffect } from "react";
 
