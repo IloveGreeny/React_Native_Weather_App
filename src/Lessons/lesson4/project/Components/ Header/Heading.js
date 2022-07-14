@@ -1,5 +1,3 @@
-
-
 // fetch ,then
 
 import { useState, useEffect } from "react";
@@ -50,7 +48,6 @@ export default function Heading() {
     </div>
   );
 }
-
 
 // async , await
 
