@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 
-export default function Heading() {
+export default function DataFetch() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -53,7 +53,7 @@ export default function Heading() {
 
 import { useState, useEffect } from "react";
 
-export default function Heading() {
+export default function () {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
