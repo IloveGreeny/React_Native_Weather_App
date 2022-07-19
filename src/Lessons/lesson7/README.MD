@@ -1,0 +1,1 @@
+check out the lesson 7 in React_Native_Example repository
